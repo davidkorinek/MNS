@@ -1,6 +1,9 @@
 AUTOR: David Kořínek
+
 OS. ČÍSLO: A24B0263P
+
 TÉMA: Leasing Automobilů
+
 ÚLOŽIŠTĚ: https://github.com/davidkorinek/MNS
 
 POPIS SYSTÉMU
