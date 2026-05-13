@@ -1,0 +1,157 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.1 Chrome/142.0.7444.265 Electron/39.8.0 Safari/537.36" version="29.6.1">
+  <diagram name="Page-1" id="jAx5JcSckWPOIOqb9lAZ">
+    <mxGraphModel dx="2377" dy="1482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AAuhrwu146C8dCpvye5q-1" parent="1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;sketch=1;curveFitting=1;jiggle=2;" value="" vertex="1">
+          <mxGeometry height="440" width="660" x="40" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="AAuhrwu146C8dCpvye5q-2" parent="AAuhrwu146C8dCpvye5q-1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;sketch=1;curveFitting=1;jiggle=2;" value="&lt;div&gt;Leasing System&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36" width="130" x="50" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="AAuhrwu146C8dCpvye5q-3" parent="AAuhrwu146C8dCpvye5q-1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;sketch=1;curveFitting=1;jiggle=2;" value="https://www.leasing.cz" vertex="1">
+          <mxGeometry height="26" width="250" x="130" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AAuhrwu146C8dCpvye5q-4" parent="AAuhrwu146C8dCpvye5q-1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#666666;mainText=;sketch=1;curveFitting=1;jiggle=2;" value="Uzivatel: Spravce" vertex="1">
+          <mxGeometry height="30" width="150" x="500" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="AAuhrwu146C8dCpvye5q-5" parent="AAuhrwu146C8dCpvye5q-1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;sketch=1;curveFitting=1;jiggle=2;" value="Nová Platba" vertex="1">
+          <mxGeometry height="50" width="150" x="225" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="AAuhrwu146C8dCpvye5q-6" parent="AAuhrwu146C8dCpvye5q-1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;sketch=1;curveFitting=1;jiggle=2;" value="Zaznam Servisní Prohlídky" vertex="1">
+          <mxGeometry height="50" width="150" x="225" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="AAuhrwu146C8dCpvye5q-7" parent="AAuhrwu146C8dCpvye5q-1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;sketch=1;curveFitting=1;jiggle=2;" value="Zobrazit aktivní pronájmy" vertex="1">
+          <mxGeometry height="50" width="150" x="490" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="AAuhrwu146C8dCpvye5q-8" parent="AAuhrwu146C8dCpvye5q-1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;sketch=1;curveFitting=1;jiggle=2;" value="Registrace zákazníka" vertex="1">
+          <mxGeometry height="50" width="150" x="40" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="AAuhrwu146C8dCpvye5q-9" parent="AAuhrwu146C8dCpvye5q-1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;sketch=1;curveFitting=1;jiggle=2;" value="Nova Smlouva" vertex="1">
+          <mxGeometry height="50" width="150" x="40" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="AAuhrwu146C8dCpvye5q-13" parent="1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;sketch=1;curveFitting=1;jiggle=2;" value="" vertex="1">
+          <mxGeometry height="440" width="660" x="830" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="AAuhrwu146C8dCpvye5q-14" parent="AAuhrwu146C8dCpvye5q-13" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;sketch=1;curveFitting=1;jiggle=2;" value="&lt;div&gt;Leasing System&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36" width="130" x="50" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="AAuhrwu146C8dCpvye5q-15" parent="AAuhrwu146C8dCpvye5q-13" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;sketch=1;curveFitting=1;jiggle=2;" value="https://www.leasing.cz/newcontract" vertex="1">
+          <mxGeometry height="26" width="250" x="130" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AAuhrwu146C8dCpvye5q-16" parent="AAuhrwu146C8dCpvye5q-13" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#666666;mainText=;sketch=1;curveFitting=1;jiggle=2;" value="Uzivatel: Spravce" vertex="1">
+          <mxGeometry height="30" width="150" x="500" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="AAuhrwu146C8dCpvye5q-22" parent="AAuhrwu146C8dCpvye5q-13" style="swimlane;strokeColor=#999999;swimlaneFillColor=#FFFFFF;fillColor=#ffffff;fontColor=#008CFF;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;fontSize=17;sketch=1;curveFitting=1;jiggle=2;shadow=0;rounded=0;glass=0;" value="Vozidla" vertex="1">
+          <mxGeometry height="110" width="150" x="40" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="AAuhrwu146C8dCpvye5q-23" parent="AAuhrwu146C8dCpvye5q-22" style="text;spacing=0;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=7;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#666666;fontSize=17;sketch=1;curveFitting=1;jiggle=2;" value="Skoda" vertex="1">
+          <mxGeometry height="20" width="150" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AAuhrwu146C8dCpvye5q-24" parent="AAuhrwu146C8dCpvye5q-22" style="text;spacing=0;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=7;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fillColor=none;fontColor=#666666;fontSize=17;sketch=1;curveFitting=1;jiggle=2;" value="VW" vertex="1">
+          <mxGeometry height="20" width="150" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AAuhrwu146C8dCpvye5q-25" parent="AAuhrwu146C8dCpvye5q-22" style="text;spacing=0;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=7;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fillColor=#DDEEFF;fontColor=#666666;fontSize=17;sketch=1;curveFitting=1;jiggle=2;" value="Opel" vertex="1">
+          <mxGeometry height="20" width="150" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AAuhrwu146C8dCpvye5q-26" parent="AAuhrwu146C8dCpvye5q-22" style="text;spacing=0;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=7;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#666666;fontSize=17;sketch=1;curveFitting=1;jiggle=2;" value="Audi" vertex="1">
+          <mxGeometry height="20" width="150" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="AAuhrwu146C8dCpvye5q-28" parent="AAuhrwu146C8dCpvye5q-13" style="swimlane;strokeColor=#999999;swimlaneFillColor=#FFFFFF;fillColor=#ffffff;fontColor=#008CFF;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;fontSize=17;sketch=1;curveFitting=1;jiggle=2;" value="Zakaznik" vertex="1">
+          <mxGeometry height="160" width="150" x="220" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="AAuhrwu146C8dCpvye5q-29" parent="AAuhrwu146C8dCpvye5q-28" style="text;spacing=0;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=7;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#666666;fontSize=17;sketch=1;curveFitting=1;jiggle=2;" value="Tom" vertex="1">
+          <mxGeometry height="20" width="150" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AAuhrwu146C8dCpvye5q-30" parent="AAuhrwu146C8dCpvye5q-28" style="text;spacing=0;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=7;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fillColor=none;fontColor=#666666;fontSize=17;sketch=1;curveFitting=1;jiggle=2;" value="Karel" vertex="1">
+          <mxGeometry height="20" width="150" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AAuhrwu146C8dCpvye5q-31" parent="AAuhrwu146C8dCpvye5q-28" style="text;spacing=0;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=7;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fillColor=#DDEEFF;fontColor=#666666;fontSize=17;sketch=1;curveFitting=1;jiggle=2;" value="Jana" vertex="1">
+          <mxGeometry height="20" width="150" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AAuhrwu146C8dCpvye5q-33" parent="AAuhrwu146C8dCpvye5q-28" style="text;spacing=0;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=7;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#666666;fontSize=17;sketch=1;curveFitting=1;jiggle=2;" value="" vertex="1">
+          <mxGeometry height="70" width="150" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="AAuhrwu146C8dCpvye5q-35" parent="AAuhrwu146C8dCpvye5q-13" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;sketch=1;curveFitting=1;jiggle=2;" value="Novy Zakaznik" vertex="1">
+          <mxGeometry height="30" width="150" x="221" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="AAuhrwu146C8dCpvye5q-36" parent="AAuhrwu146C8dCpvye5q-13" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;sketch=1;curveFitting=1;jiggle=2;" value="Ulozit" vertex="1">
+          <mxGeometry height="50" width="150" x="460" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="AAuhrwu146C8dCpvye5q-37" parent="AAuhrwu146C8dCpvye5q-13" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;sketch=1;curveFitting=1;jiggle=2;" value="Nahled Smlouvy" vertex="1">
+          <mxGeometry height="50" width="150" x="460" y="175" as="geometry" />
+        </mxCell>
+        <mxCell id="AAuhrwu146C8dCpvye5q-27" parent="AAuhrwu146C8dCpvye5q-13" style="text;spacing=0;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=7;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#666666;fontSize=17;sketch=1;curveFitting=1;jiggle=2;" value="" vertex="1">
+          <mxGeometry height="90" width="150" x="40" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="AAuhrwu146C8dCpvye5q-38" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;sketch=1;curveFitting=1;jiggle=2;" value="Tlacitko&lt;div&gt;Nova smlouva&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="110" x="710" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="AAuhrwu146C8dCpvye5q-39" parent="1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;sketch=1;curveFitting=1;jiggle=2;" value="" vertex="1">
+          <mxGeometry height="440" width="660" x="1610" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="AAuhrwu146C8dCpvye5q-40" parent="AAuhrwu146C8dCpvye5q-39" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;sketch=1;curveFitting=1;jiggle=2;" value="&lt;div&gt;Leasing System&lt;/div&gt;" vertex="1">
+          <mxGeometry height="36" width="130" x="50" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="AAuhrwu146C8dCpvye5q-41" parent="AAuhrwu146C8dCpvye5q-39" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;sketch=1;curveFitting=1;jiggle=2;" value="https://www.leasing.cz/newcontract" vertex="1">
+          <mxGeometry height="26" width="250" x="130" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AAuhrwu146C8dCpvye5q-42" parent="AAuhrwu146C8dCpvye5q-39" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#666666;mainText=;sketch=1;curveFitting=1;jiggle=2;" value="Uzivatel: Spravce" vertex="1">
+          <mxGeometry height="30" width="150" x="500" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="AAuhrwu146C8dCpvye5q-43" parent="AAuhrwu146C8dCpvye5q-39" style="swimlane;strokeColor=#999999;swimlaneFillColor=#FFFFFF;fillColor=#ffffff;fontColor=#008CFF;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;fontSize=17;sketch=1;curveFitting=1;jiggle=2;shadow=0;rounded=0;glass=0;" value="Vozidla" vertex="1">
+          <mxGeometry height="200" width="150" x="40" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="AAuhrwu146C8dCpvye5q-44" parent="AAuhrwu146C8dCpvye5q-43" style="text;spacing=0;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=7;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#666666;fontSize=17;sketch=1;curveFitting=1;jiggle=2;" value="Skoda" vertex="1">
+          <mxGeometry height="20" width="150" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AAuhrwu146C8dCpvye5q-45" parent="AAuhrwu146C8dCpvye5q-43" style="text;spacing=0;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=7;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fillColor=none;fontColor=#666666;fontSize=17;sketch=1;curveFitting=1;jiggle=2;" value="VW" vertex="1">
+          <mxGeometry height="20" width="150" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AAuhrwu146C8dCpvye5q-46" parent="AAuhrwu146C8dCpvye5q-43" style="text;spacing=0;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=7;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fillColor=#DDEEFF;fontColor=#666666;fontSize=17;sketch=1;curveFitting=1;jiggle=2;" value="Opel" vertex="1">
+          <mxGeometry height="20" width="150" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AAuhrwu146C8dCpvye5q-47" parent="AAuhrwu146C8dCpvye5q-43" style="text;spacing=0;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=7;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#666666;fontSize=17;sketch=1;curveFitting=1;jiggle=2;" value="Audi" vertex="1">
+          <mxGeometry height="20" width="150" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="AAuhrwu146C8dCpvye5q-48" parent="AAuhrwu146C8dCpvye5q-43" style="text;spacing=0;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=7;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#666666;fontSize=17;sketch=1;curveFitting=1;jiggle=2;" value="" vertex="1">
+          <mxGeometry height="90" width="150" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="AAuhrwu146C8dCpvye5q-55" parent="AAuhrwu146C8dCpvye5q-39" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;sketch=1;curveFitting=1;jiggle=2;" value="Ulozit" vertex="1">
+          <mxGeometry height="50" width="150" x="460" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="AAuhrwu146C8dCpvye5q-56" parent="AAuhrwu146C8dCpvye5q-39" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#008cff;whiteSpace=wrap;sketch=1;curveFitting=1;jiggle=2;" value="Nahled Smlouvy" vertex="1">
+          <mxGeometry height="50" width="150" x="460" y="175" as="geometry" />
+        </mxCell>
+        <mxCell id="AAuhrwu146C8dCpvye5q-57" parent="AAuhrwu146C8dCpvye5q-39" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#666666;mainText=;sketch=1;curveFitting=1;jiggle=2;" value="Jmeno" vertex="1">
+          <mxGeometry height="30" width="150" x="230" y="127.5" as="geometry" />
+        </mxCell>
+        <mxCell id="AAuhrwu146C8dCpvye5q-58" parent="AAuhrwu146C8dCpvye5q-39" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#666666;mainText=;sketch=1;curveFitting=1;jiggle=2;" value="Prijmeni" vertex="1">
+          <mxGeometry height="30" width="150" x="230" y="162.5" as="geometry" />
+        </mxCell>
+        <mxCell id="AAuhrwu146C8dCpvye5q-59" parent="AAuhrwu146C8dCpvye5q-39" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#666666;mainText=;sketch=1;curveFitting=1;jiggle=2;" value="Telefon" vertex="1">
+          <mxGeometry height="30" width="150" x="230" y="202.5" as="geometry" />
+        </mxCell>
+        <mxCell id="AAuhrwu146C8dCpvye5q-60" parent="AAuhrwu146C8dCpvye5q-39" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#666666;mainText=;sketch=1;curveFitting=1;jiggle=2;" value="E-mail" vertex="1">
+          <mxGeometry height="30" width="150" x="230" y="242.5" as="geometry" />
+        </mxCell>
+        <mxCell id="AAuhrwu146C8dCpvye5q-61" parent="AAuhrwu146C8dCpvye5q-39" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#666666;mainText=;sketch=1;curveFitting=1;jiggle=2;" value="Cislo Uctu" vertex="1">
+          <mxGeometry height="30" width="150" x="230" y="282.5" as="geometry" />
+        </mxCell>
+        <mxCell id="AAuhrwu146C8dCpvye5q-62" parent="AAuhrwu146C8dCpvye5q-39" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;whiteSpace=wrap;strokeColor=#666666;mainText=;sketch=1;curveFitting=1;jiggle=2;" value="Adresa" vertex="1">
+          <mxGeometry height="30" width="150" x="230" y="322.5" as="geometry" />
+        </mxCell>
+        <mxCell id="AAuhrwu146C8dCpvye5q-63" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;sketch=1;curveFitting=1;jiggle=2;" value="Tlacitko&lt;br&gt;Novy Zakaznik" vertex="1">
+          <mxGeometry height="140" width="100" x="1500" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="AAuhrwu146C8dCpvye5q-65" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;sketch=1;curveFitting=1;jiggle=2;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Tlacitko &quot;Nahled Smlouvy&quot; Zobrazi vygenerovanou smlouvu se zadanými udaji pro kontrolu&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="200" x="1280" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="AAuhrwu146C8dCpvye5q-68" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;flipH=1;notch=0;legacyAnchorPoints=0;sketch=1;curveFitting=1;jiggle=2;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Tlačítko &quot;Ulozit&quot;&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;uloží údaje a vrátí&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;zpět na původní stránku&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="300" x="910" y="460" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
